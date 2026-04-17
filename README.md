@@ -8,18 +8,14 @@ Transformando ideias em interfaces modernas, funcionais e centradas no usuário 
 
 
 ## 
-<div style="
-  background: linear-gradient(135deg, #00c6ff, #7b2ff7);
-  padding: 20px;
-  border-radius: 15px;
-  color: white;
+
   
 🎓 Estudante de Desenvolvimento Front-End pelo SENAI  
 💻 Focada em criar interfaces modernas, responsivas e intuitivas  
 🎨 Apaixonada por design e experiência do usuário (UX/UI)  
 📚 Sempre aprendendo novas tecnologias  
 
-</div>
+
 
 
 <div style="display: flex; gap: 10px;">
