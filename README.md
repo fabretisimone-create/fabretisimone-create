@@ -1,4 +1,10 @@
-
+<div style="
+  background: linear-gradient(90deg, #6a0dad, #1e90ff);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  </div>
+  
 ## Desenvolvedora Front-End em formação | HTML, CSS, JavaScript, React | UX/UI Design
 
 
