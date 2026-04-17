@@ -19,14 +19,6 @@ Transformando ideias em interfaces modernas, funcionais e centradas no usuário 
 
 ---
 
-## 🎮 Jogo Pac-Man Interativo
-
-<iframe width="420" height="420" src="https://fabretisimone-create.github.io/seu-repositorio/assets/games/pacman.html" frameborder="0" allowfullscreen style="border-radius: 10px;"></iframe>
-
-### Controles:
-- **Setas** para mover
-- **Espaço** para pausar
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
